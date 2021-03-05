@@ -9,6 +9,8 @@ target 'TbtNavigation' do
   
   pod 'MapboxNavigation', '~> 0.22.0'
   
+  pod 'react-native-location', :path => '../node_modules/react-native-location'
+
   target 'TbtNavigationTests' do
     inherit! :search_paths
     # Pods for testing

@@ -745,6 +745,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = D4W2UZCA4D;
 						LastSwiftMigration = 1010;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -1151,15 +1152,13 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-TbtNavigation/Pods-TbtNavigation-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-TbtNavigation/Pods-TbtNavigation-frameworks.sh",
 				"${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework",
-				"${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework.dSYM",
 				"${BUILT_PRODUCTS_DIR}/MapboxCoreNavigation/MapboxCoreNavigation.framework",
 				"${BUILT_PRODUCTS_DIR}/MapboxDirections.swift/MapboxDirections.framework",
 				"${BUILT_PRODUCTS_DIR}/MapboxMobileEvents/MapboxMobileEvents.framework",
 				"${BUILT_PRODUCTS_DIR}/MapboxNavigation/MapboxNavigation.framework",
 				"${PODS_ROOT}/MapboxNavigationNative/MapboxNavigationNative.framework",
-				"${PODS_ROOT}/MapboxNavigationNative/MapboxNavigationNative.framework.dSYM",
 				"${BUILT_PRODUCTS_DIR}/MapboxSpeech/MapboxSpeech.framework",
 				"${BUILT_PRODUCTS_DIR}/Polyline/Polyline.framework",
 				"${BUILT_PRODUCTS_DIR}/Solar/Solar.framework",
@@ -1168,13 +1167,11 @@
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Mapbox.framework",
-				"${DWARF_DSYM_FOLDER_PATH}/Mapbox.framework.dSYM",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxCoreNavigation.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxDirections.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxMobileEvents.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxNavigation.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxNavigationNative.framework",
-				"${DWARF_DSYM_FOLDER_PATH}/MapboxNavigationNative.framework.dSYM",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxSpeech.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Polyline.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Solar.framework",
@@ -1182,7 +1179,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TbtNavigation/Pods-TbtNavigation-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TbtNavigation/Pods-TbtNavigation-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
@@ -1389,6 +1386,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = D4W2UZCA4D;
 				INFOPLIST_FILE = TbtNavigation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1396,7 +1394,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = org.example.TbtNavigation;
 				PRODUCT_NAME = TbtNavigation;
 				SWIFT_OBJC_BRIDGING_HEADER = "TbtNavigation-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1412,6 +1410,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D4W2UZCA4D;
 				INFOPLIST_FILE = TbtNavigation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1419,7 +1418,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = org.example.TbtNavigation;
 				PRODUCT_NAME = TbtNavigation;
 				SWIFT_OBJC_BRIDGING_HEADER = "TbtNavigation-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;

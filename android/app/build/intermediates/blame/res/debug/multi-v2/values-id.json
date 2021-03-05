@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/thegana/Documents/thegana/TbtNavigation/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,171",
+                        "endColumns": "56,58,59",
+                        "endOffsets": "107,166,226"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "120,177,236",
+                        "endColumns": "56,58,59",
+                        "endOffsets": "172,231,291"
+                    }
+                },
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}

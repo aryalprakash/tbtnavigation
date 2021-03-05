@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TbtNavigation</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGhlZ2FuYXNlcnZpY2VzIiwiYSI6ImNqbWt2cTR1MDAxdjYzdW5uMHYzNnVoODEifQ._2vD6J89pZ10l76vWFry8g</string>
 </resources>

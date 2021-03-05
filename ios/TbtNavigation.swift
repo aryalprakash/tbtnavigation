@@ -14,9 +14,17 @@ import MapboxNavigation
 @objc(TbtNavigation)
 class TbtNavigation: NSObject {
   @objc
-  func takeMeToWH() {
-    let origin = Waypoint(coordinate: CLLocationCoordinate2D(latitude: 38.9131752, longitude: -77.0324047), name: "Mapbox")
-    let destination = Waypoint(coordinate: CLLocationCoordinate2D(latitude: 38.8977, longitude: -77.0365), name: "White House")
+  func takeMeToWH(_ options: AnyObject) -> Void{
+    let source = options["source"] as AnyObject;
+    let lat1 = source["lat"] as! Double;
+    let lon1 = source["lon"] as! Double;
+  
+    let dest = options["dest"] as AnyObject;
+    let lat2 = dest["lat"] as! Double;
+    let lon2 = dest["lon"] as! Double;
+    
+    let origin = Waypoint(coordinate: CLLocationCoordinate2D(latitude: CLLocationDegrees(lat1), longitude:CLLocationDegrees(lon1)), name: "Mapbox")
+    let destination = Waypoint(coordinate: CLLocationCoordinate2D(latitude: CLLocationDegrees(lat2), longitude:CLLocationDegrees(lon2)), name: "White House")
     let options = NavigationRouteOptions(waypoints: [origin, destination])
     Directions.shared.calculate(options) { (waypoints, routes, error) in
       guard let route = routes?.first else { return }
@@ -24,5 +32,9 @@ class TbtNavigation: NSObject {
       let appDelegate = UIApplication.shared.delegate
       appDelegate!.window!!.rootViewController!.present(viewController, animated: true, completion: nil)
     }
+  }
+  
+  @objc static func requiresMainQueueSetup() -> Bool {
+    return false
   }
 }
