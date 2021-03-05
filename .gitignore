@@ -23,11 +23,13 @@ project.xcworkspace
 
 # Gradle
 /build/
-/RNTester/android/app/build/
+android/app/build/
 /RNTester/android/app/gradle/
 /RNTester/android/app/gradlew
 /RNTester/android/app/gradlew.bat
 /ReactAndroid/build/
+
+ios/Pods
 
 # Buck
 .buckd
