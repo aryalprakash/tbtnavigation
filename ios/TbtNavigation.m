@@ -7,9 +7,9 @@
 //
 
 #import "React/RCTBridgeModule.h"
-@interface RCT_EXTERN_REMAP_MODULE(RNTbtNavigation, TbtNavigation, NSObject)
+@interface RCT_EXTERN_REMAP_MODULE(MapBoxDirections, TbtNavigation, NSObject)
 
-RCT_EXTERN_METHOD(takeMeToWH: (NSDictionary *)options)
+RCT_EXTERN_METHOD(startNavigation: (NSDictionary *)options)
 
 @end
 

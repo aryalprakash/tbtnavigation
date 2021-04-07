@@ -4,7 +4,17 @@
             "outputFile": "/Users/thegana/Documents/thegana/TbtNavigation/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
             "map": [
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/res/values-id/values-id.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cd975465a3e56f956b236e7d17372786/jetified-notification-1.5.0/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                },
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cefb9914ab8461650899c20615f2a637/jetified-ui-1.5.0/res/values-id/values-id.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "120,177,236",
                         "endColumns": "56,58,59",
                         "endOffsets": "172,231,291"
-                    }
-                },
-                {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/res/values-id/values-id.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "64",
-                        "endOffsets": "115"
                     }
                 }
             ]

@@ -12,6 +12,7 @@
 #if RCT_DEV
 #import <React/RCTDevLoadingView.h>
 #endif
+#import <GoogleMaps/GoogleMaps.h>
 
 @implementation AppDelegate
 
@@ -20,7 +21,8 @@
   NSURL *jsCodeLocation;
 
   jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"index" fallbackResource:nil];
-
+  [GMSServices provideAPIKey:@"AIzaSyBUbQ_HOaRI-QHO4F38VbTl140g_hkyQrM"];
+  
   RCTBridge *bridge = [[RCTBridge alloc] initWithBundleURL:jsCodeLocation
                                             moduleProvider:nil
                                              launchOptions:launchOptions];

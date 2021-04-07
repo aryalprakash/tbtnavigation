@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/res/values-lt/values-lt.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/2bae237b342d8b250af691ba64ee6099/jetified-mapbox-android-sdk-9.6.1/res/values-lt/values-lt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

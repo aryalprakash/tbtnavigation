@@ -5,13 +5,13 @@ INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/mai
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:1:1-30:12
 MERGED from [hermes-debug.aar] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2d06668ed3591a1be585ec068a4cdb1f/jetified-hermes-debug/AndroidManifest.xml:2:1-7:12
-MERGED from [com.mapbox.navigation:ui:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:2:1-30:12
-MERGED from [com.mapbox.navigation:notification:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.navigation:router:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/151c90ab08aea1cd3dd958eee90e58d0/jetified-router-1.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.navigation:navigator:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/3b647db35173cb1a04047d0315b1c438/jetified-navigator-1.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.navigation:metrics:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb843edf31abfde22816a21930ab8144/jetified-metrics-1.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.navigation:utils:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mapbox.navigation:ui:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/71a444d4ead18858d97bafef62b72e07/jetified-ui-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:2:1-29:12
+MERGED from [com.mapbox.navigation:router:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/05571365fa326f4f7bf0ce937d42c09a/jetified-router-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigation:notification:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1360e59797eb2e71ada268faf3251200/jetified-notification-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigation:navigator:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/bdcc04606011a2ce407d9743fe38c649/jetified-navigator-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigation:metrics:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/c0c7dfe6c2cbc09f402f806a9cfdacd3/jetified-metrics-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigation:utils:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1090dc4432e3c8e7807ef3865f015f27/jetified-utils-1.4.0/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-location] /Users/thegana/Documents/thegana/TbtNavigation/node_modules/react-native-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/15c0446ec4bd0495423f12763910b30b/jetified-react-native-0.61.0/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/ea025607e8b88c5debc62e2dbd7c8d50/material-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -25,12 +25,12 @@ MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/thegana/.gradle/cac
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/72c4d569e423be5da104fb896b13a081/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1a6fddb99dc654471246605f60257db7/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/7b95d51b8fbb36aeae2b8f5d1adb0a65/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
-MERGED from [com.mapbox.navigator:mapbox-navigation-native:22.0.4] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2277378211945c799afd96f7c4d5c77b/jetified-mapbox-navigation-native-22.0.4/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.common:okhttp:7.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/3adcadc2c4113465f2fbc57c940640b4/jetified-okhttp-7.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.common:common:7.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b02c4c72f867eb170341d3193d205681/jetified-common-7.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigator:mapbox-navigation-native:28.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/f40cb45eeb3a134d2f8254198af6feea/jetified-mapbox-navigation-native-28.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.common:okhttp:9.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/88a17ec88294ae9fcaa0ba58a0e3c6ab/jetified-okhttp-9.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.common:common:9.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/094e7aaf78441afbd0764149127abd0a/jetified-common-9.1.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.mapbox.common:logger:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/448520f152651f4a9472deb362a87d1a/jetified-logger-0.4.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.mapbox.base:common:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/36baef52224ddf5729b948e4c6d21992/jetified-common-0.4.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.navigation:base:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1546ce53dde14594c243e82a12abfe2b/jetified-base-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigation:base:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/498f9cfc92686ea1d0e8fb1bb466a383/jetified-base-1.4.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2a795536507dce79e8907e1246afb538/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d601acf76c3685dae16d8d0f7fa1f094/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/981d50ad32305c6dd4556101f8a707a4/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
@@ -39,9 +39,9 @@ MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/thegan
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/c987461e97a14c87dfcac71935285a37/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/414104850eed0809f79ec492580a5127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] /Users/thegana/.gradle/caches/transforms-2/files-2.1/cceb8371fc7688ad74ae1def32f7d552/swiperefreshlayout-1.1.0-alpha03/AndroidManifest.xml:17:1-24:12
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:2:1-21:12
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:2:1-29:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6fc83fc652dcc87bc99a1736fb1d6a0b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/c909c8d620f6f41a7baf3e133b93f1e3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/8d51fe5b3a8a21190b4de617d30bb716/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -65,7 +65,7 @@ MERGED from [androidx.media:media:1.0.0] /Users/thegana/.gradle/caches/transform
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/7786085afac74595657b4507b7b8e196/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/8505c4bc6ae7cc55e5ed61862a293f7d/core-1.2.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0d2962d75836bec3bff240b317e7badc/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.mapbox.mapboxsdk:mapbox-navigation-accounts-android:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0d345c62f8f9dcad0bce39e478cd9f00/jetified-mapbox-navigation-accounts-android-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-navigation-accounts-android:0.4.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/9956f397d0b70687cee852794aa26bb7/jetified-mapbox-navigation-accounts-android-0.4.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/a67293c3d05ef07d6d8cb337786a628d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/77fa7d6ec2cec3035cff0f4afc942997/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/9da876f1a3781bf3c052c3dbb024bd91/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
@@ -84,8 +84,8 @@ MERGED from [androidx.print:print:1.0.0] /Users/thegana/.gradle/caches/transform
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6fc64f0259807e201ef86ca2df8addd3/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
 MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0b1399cb25467e70831c50e4792fc15b/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d8b1623213cc557797fb5e1673e8d57c/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:2:1-21:12
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/840550d82bba68bf0ee9ba0a21f4019a/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/015d976177d96f9a4781e4b89388419d/jetified-mapbox-android-core-3.1.1/AndroidManifest.xml:2:1-13:12
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:1:1-30:12
@@ -105,12 +105,12 @@ INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/mai
 		ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:16:5-67
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:16:5-67
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:15:5-67
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:15:5-67
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:16:5-67
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:16:5-67
 	android:name
 		ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -119,26 +119,26 @@ ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/A
 		ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:6:5-81
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:9:5-81
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:9:5-81
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:9:5-81
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:9:5-81
 MERGED from [:react-native-location] /Users/thegana/Documents/thegana/TbtNavigation/node_modules/react-native-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
 MERGED from [:react-native-location] /Users/thegana/Documents/thegana/TbtNavigation/node_modules/react-native-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
 	android:name
 		ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:7:5-79
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:10:5-79
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:10:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:19:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:19:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:19:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:10:5-79
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:10:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:19:5-79
 	android:name
 		ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:7:22-76
 application
 ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml:9:5-28:19
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:14:5-28:19
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:14:5-28:19
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:13:5-27:19
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:13:5-27:19
 MERGED from [com.facebook.react:react-native:0.61.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/15c0446ec4bd0495423f12763910b30b/jetified-react-native-0.61.0/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/15c0446ec4bd0495423f12763910b30b/jetified-react-native-0.61.0/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/ea025607e8b88c5debc62e2dbd7c8d50/material-1.1.0/AndroidManifest.xml:22:5-20
@@ -157,8 +157,8 @@ MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/thegan
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/08ae6bb13acc92784ccbed2a016478dd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:17:5-27:19
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:20:5-30:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:20:5-30:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/cd0eb881e274bd982c753e417ec801c9/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/cd0eb881e274bd982c753e417ec801c9/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.core:core:1.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/8505c4bc6ae7cc55e5ed61862a293f7d/core-1.2.0/AndroidManifest.xml:24:5-89
@@ -219,20 +219,20 @@ INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/mai
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml
 MERGED from [hermes-debug.aar] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2d06668ed3591a1be585ec068a4cdb1f/jetified-hermes-debug/AndroidManifest.xml:5:5-44
 MERGED from [hermes-debug.aar] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2d06668ed3591a1be585ec068a4cdb1f/jetified-hermes-debug/AndroidManifest.xml:5:5-44
-MERGED from [com.mapbox.navigation:ui:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:ui:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:notification:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:notification:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:router:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/151c90ab08aea1cd3dd958eee90e58d0/jetified-router-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:router:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/151c90ab08aea1cd3dd958eee90e58d0/jetified-router-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:navigator:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/3b647db35173cb1a04047d0315b1c438/jetified-navigator-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:navigator:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/3b647db35173cb1a04047d0315b1c438/jetified-navigator-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:metrics:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb843edf31abfde22816a21930ab8144/jetified-metrics-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:metrics:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb843edf31abfde22816a21930ab8144/jetified-metrics-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:utils:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:utils:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:ui:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/71a444d4ead18858d97bafef62b72e07/jetified-ui-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:ui:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/71a444d4ead18858d97bafef62b72e07/jetified-ui-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:router:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/05571365fa326f4f7bf0ce937d42c09a/jetified-router-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:router:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/05571365fa326f4f7bf0ce937d42c09a/jetified-router-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:notification:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1360e59797eb2e71ada268faf3251200/jetified-notification-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:notification:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1360e59797eb2e71ada268faf3251200/jetified-notification-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:navigator:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/bdcc04606011a2ce407d9743fe38c649/jetified-navigator-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:navigator:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/bdcc04606011a2ce407d9743fe38c649/jetified-navigator-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:metrics:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/c0c7dfe6c2cbc09f402f806a9cfdacd3/jetified-metrics-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:metrics:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/c0c7dfe6c2cbc09f402f806a9cfdacd3/jetified-metrics-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:utils:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1090dc4432e3c8e7807ef3865f015f27/jetified-utils-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:utils:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1090dc4432e3c8e7807ef3865f015f27/jetified-utils-1.4.0/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-location] /Users/thegana/Documents/thegana/TbtNavigation/node_modules/react-native-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-location] /Users/thegana/Documents/thegana/TbtNavigation/node_modules/react-native-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.61.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/15c0446ec4bd0495423f12763910b30b/jetified-react-native-0.61.0/AndroidManifest.xml:7:5-9:41
@@ -259,18 +259,18 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/thegana/.gradl
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1a6fddb99dc654471246605f60257db7/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/7b95d51b8fbb36aeae2b8f5d1adb0a65/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/7b95d51b8fbb36aeae2b8f5d1adb0a65/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.mapbox.navigator:mapbox-navigation-native:22.0.4] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2277378211945c799afd96f7c4d5c77b/jetified-mapbox-navigation-native-22.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigator:mapbox-navigation-native:22.0.4] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2277378211945c799afd96f7c4d5c77b/jetified-mapbox-navigation-native-22.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.common:okhttp:7.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/3adcadc2c4113465f2fbc57c940640b4/jetified-okhttp-7.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.common:okhttp:7.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/3adcadc2c4113465f2fbc57c940640b4/jetified-okhttp-7.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.common:common:7.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b02c4c72f867eb170341d3193d205681/jetified-common-7.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.common:common:7.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b02c4c72f867eb170341d3193d205681/jetified-common-7.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigator:mapbox-navigation-native:28.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/f40cb45eeb3a134d2f8254198af6feea/jetified-mapbox-navigation-native-28.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigator:mapbox-navigation-native:28.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/f40cb45eeb3a134d2f8254198af6feea/jetified-mapbox-navigation-native-28.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:okhttp:9.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/88a17ec88294ae9fcaa0ba58a0e3c6ab/jetified-okhttp-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:okhttp:9.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/88a17ec88294ae9fcaa0ba58a0e3c6ab/jetified-okhttp-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:common:9.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/094e7aaf78441afbd0764149127abd0a/jetified-common-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:common:9.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/094e7aaf78441afbd0764149127abd0a/jetified-common-9.1.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.mapbox.common:logger:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/448520f152651f4a9472deb362a87d1a/jetified-logger-0.4.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.mapbox.common:logger:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/448520f152651f4a9472deb362a87d1a/jetified-logger-0.4.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.mapbox.base:common:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/36baef52224ddf5729b948e4c6d21992/jetified-common-0.4.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.mapbox.base:common:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/36baef52224ddf5729b948e4c6d21992/jetified-common-0.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:base:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1546ce53dde14594c243e82a12abfe2b/jetified-base-1.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.navigation:base:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1546ce53dde14594c243e82a12abfe2b/jetified-base-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:base:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/498f9cfc92686ea1d0e8fb1bb466a383/jetified-base-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.navigation:base:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/498f9cfc92686ea1d0e8fb1bb466a383/jetified-base-1.4.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2a795536507dce79e8907e1246afb538/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/2a795536507dce79e8907e1246afb538/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d601acf76c3685dae16d8d0f7fa1f094/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
@@ -287,12 +287,12 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/thegana/.gradl
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/414104850eed0809f79ec492580a5127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] /Users/thegana/.gradle/caches/transforms-2/files-2.1/cceb8371fc7688ad74ae1def32f7d552/swiperefreshlayout-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] /Users/thegana/.gradle/caches/transforms-2/files-2.1/cceb8371fc7688ad74ae1def32f7d552/swiperefreshlayout-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6fc83fc652dcc87bc99a1736fb1d6a0b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6fc83fc652dcc87bc99a1736fb1d6a0b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/c909c8d620f6f41a7baf3e133b93f1e3/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -339,8 +339,8 @@ MERGED from [androidx.core:core:1.2.0] /Users/thegana/.gradle/caches/transforms-
 MERGED from [androidx.core:core:1.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/8505c4bc6ae7cc55e5ed61862a293f7d/core-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0d2962d75836bec3bff240b317e7badc/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0d2962d75836bec3bff240b317e7badc/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-navigation-accounts-android:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0d345c62f8f9dcad0bce39e478cd9f00/jetified-mapbox-navigation-accounts-android-0.4.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-navigation-accounts-android:0.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0d345c62f8f9dcad0bce39e478cd9f00/jetified-mapbox-navigation-accounts-android-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-navigation-accounts-android:0.4.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/9956f397d0b70687cee852794aa26bb7/jetified-mapbox-navigation-accounts-android-0.4.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-navigation-accounts-android:0.4.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/9956f397d0b70687cee852794aa26bb7/jetified-mapbox-navigation-accounts-android-0.4.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/a67293c3d05ef07d6d8cb337786a628d/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/a67293c3d05ef07d6d8cb337786a628d/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/77fa7d6ec2cec3035cff0f4afc942997/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
@@ -377,10 +377,10 @@ MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/thegana/.gradle/caches/
 MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/0b1399cb25467e70831c50e4792fc15b/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d8b1623213cc557797fb5e1673e8d57c/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d8b1623213cc557797fb5e1673e8d57c/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/840550d82bba68bf0ee9ba0a21f4019a/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/840550d82bba68bf0ee9ba0a21f4019a/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/015d976177d96f9a4781e4b89388419d/jetified-mapbox-android-core-3.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/015d976177d96f9a4781e4b89388419d/jetified-mapbox-android-core-3.1.1/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -391,48 +391,44 @@ INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/mai
 		INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/thegana/Documents/thegana/TbtNavigation/android/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:11:5-85
-	android:name
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:11:22-82
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:12:5-77
+ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:11:5-77
 	android:name
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:12:22-74
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:11:22-74
 provider#com.mapbox.navigation.core.accounts.MapboxNavigationAccountsProvider
-ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:15:9-19:39
+ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:14:9-18:39
 	android:authorities
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:17:13-84
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:16:13-84
 	android:exported
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:18:13-37
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:17:13-37
 	android:initOrder
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:19:13-36
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:18:13-36
 	android:name
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:16:13-96
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:15:13-96
 service#com.mapbox.navigation.core.trip.service.NavigationNotificationService
-ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:21:9-23:56
+ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:20:9-22:56
 	android:foregroundServiceType
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:23:13-53
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:22:13-53
 	android:name
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:22:13-97
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:21:13-97
 meta-data#com.mapbox.ManageSkuToken
-ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:25:9-27:37
+ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:24:9-26:37
 	android:value
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:27:13-34
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:26:13-34
 	android:name
-		ADDED from [com.mapbox.navigation:core:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/feb3e8ce9327250abc49ee64cc8ac81d/jetified-core-1.1.0/AndroidManifest.xml:26:13-53
+		ADDED from [com.mapbox.navigation:core:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/47d744b01bc06abf013bf4c24575e2e3/jetified-core-1.4.0/AndroidManifest.xml:25:13-53
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.mapbox.navigation:utils:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/AndroidManifest.xml:9:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:17:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:17:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:13:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:13:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:17:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:17:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/840550d82bba68bf0ee9ba0a21f4019a/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:11:5-79
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/840550d82bba68bf0ee9ba0a21f4019a/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:11:5-79
+ADDED from [com.mapbox.navigation:utils:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1090dc4432e3c8e7807ef3865f015f27/jetified-utils-1.4.0/AndroidManifest.xml:9:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/015d976177d96f9a4781e4b89388419d/jetified-mapbox-android-core-3.1.1/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/015d976177d96f9a4781e4b89388419d/jetified-mapbox-android-core-3.1.1/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.mapbox.navigation:utils:1.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/AndroidManifest.xml:9:22-76
+		ADDED from [com.mapbox.navigation:utils:1.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/1090dc4432e3c8e7807ef3865f015f27/jetified-utils-1.4.0/AndroidManifest.xml:9:22-76
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d601acf76c3685dae16d8d0f7fa1f094/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -448,29 +444,29 @@ ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/thegana
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/thegana/.gradle/caches/transforms-2/files-2.1/08ae6bb13acc92784ccbed2a016478dd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
 uses-feature#0x00020000
-ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:9:5-11:35
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:9:5-11:35
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:9:5-11:35
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:9:5-11:35
 	android:glEsVersion
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:10:9-41
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:10:9-41
 	android:required
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:11:9-32
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:11:9-32
 uses-feature#android.hardware.wifi
-ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:12:5-14:36
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:12:5-14:36
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:12:5-14:36
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:12:5-14:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:12:5-14:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:12:5-14:36
 	android:required
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:14:9-33
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:14:9-33
 	android:name
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:13:9-45
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:13:9-45
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:18:5-76
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:14:5-76
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:14:5-76
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:18:5-76
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:3.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b698e34b3959627d5bf43319905d3487/jetified-mapbox-android-sdk-gl-core-3.1.0/AndroidManifest.xml:18:5-76
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d06aacdc29998b95994d5c68340a18ec/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:18:5-76
 	android:name
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.4.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/AndroidManifest.xml:18:22-73
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d117644be6b338a3b3eeb61c30cea970/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:18:22-73
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
 	android:authorities
@@ -480,25 +476,31 @@ ADDED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/
 	android:name
 		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/thegana/.gradle/caches/transforms-2/files-2.1/b9217754f87ba2f5ed09b2236bc94902/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:5-68
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:12:5-68
 	android:name
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:22-65
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:16:5-18:38
+	android:maxSdkVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:18:9-35
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:17:9-52
 provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
-ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:18:9-22:39
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:21:9-25:39
 	android:authorities
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:20:13-79
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:23:13-79
 	android:exported
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:21:13-37
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:24:13-37
 	android:initOrder
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:22:13-36
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:19:13-93
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:22:13-93
 service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
-ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:24:9-26:72
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:27:9-29:72
 	android:permission
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:26:13-69
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/d4afb166878d6cdcdf26870b0c127803/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:25:13-93
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.2] /Users/thegana/.gradle/caches/transforms-2/files-2.1/6ccca004c3ccb5b61edda586423df4ba/jetified-mapbox-android-telemetry-6.2.2/AndroidManifest.xml:28:13-93
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/thegana/.gradle/caches/transforms-2/files-2.1/77fa7d6ec2cec3035cff0f4afc942997/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 	android:authorities

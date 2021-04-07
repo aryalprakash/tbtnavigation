@@ -21,40 +21,6 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/res/values-ca/values-ca.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,106,165",
-                        "endColumns": "50,58,55",
-                        "endOffsets": "101,160,216"
-                    },
-                    "to": {
-                        "startLines": "57,60,61",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6603,6926,6985",
-                        "endColumns": "50,58,55",
-                        "endOffsets": "6649,6980,7036"
-                    }
-                },
-                {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/res/values-ca/values-ca.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "66",
-                        "endOffsets": "117"
-                    },
-                    "to": {
-                        "startLines": "55",
-                        "startColumns": "4",
-                        "startOffsets": "6375",
-                        "endColumns": "66",
-                        "endOffsets": "6437"
-                    }
-                },
-                {
                     "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/8505c4bc6ae7cc55e5ed61862a293f7d/core-1.2.0/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2",
@@ -72,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/res/values-ca/values-ca.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/2bae237b342d8b250af691ba64ee6099/jetified-mapbox-android-sdk-9.6.1/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -103,6 +69,40 @@
                         "startOffsets": "3984",
                         "endColumns": "193",
                         "endOffsets": "4173"
+                    }
+                },
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cd975465a3e56f956b236e7d17372786/jetified-notification-1.5.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    },
+                    "to": {
+                        "startLines": "55",
+                        "startColumns": "4",
+                        "startOffsets": "6375",
+                        "endColumns": "66",
+                        "endOffsets": "6437"
+                    }
+                },
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cefb9914ab8461650899c20615f2a637/jetified-ui-1.5.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,106,165",
+                        "endColumns": "50,58,55",
+                        "endOffsets": "101,160,216"
+                    },
+                    "to": {
+                        "startLines": "57,60,61",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6603,6926,6985",
+                        "endColumns": "50,58,55",
+                        "endOffsets": "6649,6980,7036"
                     }
                 },
                 {

@@ -4,6 +4,23 @@
             "outputFile": "/Users/thegana/Documents/thegana/TbtNavigation/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/2bae237b342d8b250af691ba64ee6099/jetified-mapbox-android-sdk-9.6.1/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,225,306,381,459,553,631,758,881,1017,1146",
+                        "endColumns": "169,80,74,77,93,77,126,122,135,128,148",
+                        "endOffsets": "220,301,376,454,548,626,753,876,1012,1141,1290"
+                    },
+                    "to": {
+                        "startLines": "51,52,53,54,55,56,57,58,62,64,65",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5790,5960,6041,6116,6194,6288,6366,6493,6821,7008,7137",
+                        "endColumns": "169,80,74,77,93,77,126,122,135,128,148",
+                        "endOffsets": "5955,6036,6111,6189,6283,6361,6488,6611,6952,7132,7281"
+                    }
+                },
+                {
                     "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/d601acf76c3685dae16d8d0f7fa1f094/jetified-play-services-base-16.0.1/res/values-bg/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -21,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/res/values-bg/values-bg.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cefb9914ab8461650899c20615f2a637/jetified-ui-1.5.0/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,132,183,238,311,372",
+                        "endColumns": "76,50,54,72,60,54",
+                        "endOffsets": "127,178,233,306,367,422"
+                    },
+                    "to": {
+                        "startLines": "61,63,66,67,68,75",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "6744,6957,7286,7341,7414,7772",
+                        "endColumns": "76,50,54,72,60,54",
+                        "endOffsets": "6816,7003,7336,7409,7470,7822"
+                    }
+                },
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/99e62a5ea62d7f1cc36931f68ebb02e2/jetified-utils-1.5.0/res/values-bg/values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -38,37 +72,20 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/res/values-bg/values-bg.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cd975465a3e56f956b236e7d17372786/jetified-notification-1.5.0/res/values-bg/values-bg.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,225,306,381,459,553,631,758,881,1017,1146",
-                        "endColumns": "169,80,74,77,93,77,126,122,135,128,148",
-                        "endOffsets": "220,301,376,454,548,626,753,876,1012,1141,1290"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,59",
+                        "endOffsets": "118,178"
                     },
                     "to": {
-                        "startLines": "51,52,53,54,55,56,57,58,62,64,65",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5790,5960,6041,6116,6194,6288,6366,6493,6821,7008,7137",
-                        "endColumns": "169,80,74,77,93,77,126,122,135,128,148",
-                        "endOffsets": "5955,6036,6111,6189,6283,6361,6488,6611,6952,7132,7281"
-                    }
-                },
-                {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/res/values-bg/values-bg.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,132,183,238,311,372",
-                        "endColumns": "76,50,54,72,60,54",
-                        "endOffsets": "127,178,233,306,367,422"
-                    },
-                    "to": {
-                        "startLines": "61,63,66,67,68,75",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "6744,6957,7286,7341,7414,7772",
-                        "endColumns": "76,50,54,72,60,54",
-                        "endOffsets": "6816,7003,7336,7409,7470,7822"
+                        "startLines": "59,60",
+                        "startColumns": "4,4",
+                        "startOffsets": "6616,6684",
+                        "endColumns": "67,59",
+                        "endOffsets": "6679,6739"
                     }
                 },
                 {
@@ -89,22 +106,22 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/res/values-bg/values-bg.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/f85edcb51d9477c98f0c5cb959bd9a5a/jetified-base-1.5.0/res/values-bg/values-bg.xml",
                     "from": {
-                        "startLines": "2,6,7,8,9",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,195,263,323,368",
-                        "endLines": "5,6,7,8,9",
-                        "endColumns": "14,67,59,44,47",
-                        "endOffsets": "190,258,318,363,411"
+                        "startLines": "2,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,195,240",
+                        "endLines": "5,6,7",
+                        "endColumns": "14,44,47",
+                        "endOffsets": "190,235,283"
                     },
                     "to": {
-                        "startLines": "2,59,60,70,74",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "105,6616,6684,7525,7724",
-                        "endLines": "5,59,60,70,74",
-                        "endColumns": "14,67,59,44,47",
-                        "endOffsets": "240,6679,6739,7565,7767"
+                        "startLines": "2,70,74",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,7525,7724",
+                        "endLines": "5,70,74",
+                        "endColumns": "14,44,47",
+                        "endOffsets": "240,7565,7767"
                     }
                 },
                 {

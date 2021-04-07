@@ -21,22 +21,20 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/2bae237b342d8b250af691ba64ee6099/jetified-mapbox-android-sdk-9.6.1/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
-                        "startLines": "2,6,7,8,9",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,196,265,318,365",
-                        "endLines": "5,6,7,8,9",
-                        "endColumns": "14,68,52,46,47",
-                        "endOffsets": "191,260,313,360,408"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,215,398,475,555,628,720,809,944,1060,1228,1357,1492",
+                        "endColumns": "159,182,76,79,72,91,88,134,115,167,128,134,77",
+                        "endOffsets": "210,393,470,550,623,715,804,939,1055,1223,1352,1487,1565"
                     },
                     "to": {
-                        "startLines": "2,60,61,72,76",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "105,6817,6886,7808,8007",
-                        "endLines": "5,60,61,72,76",
-                        "endColumns": "14,68,52,46,47",
-                        "endOffsets": "241,6881,6934,7850,8050"
+                        "startLines": "51,52,53,54,55,56,57,58,59,63,65,66,70",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5812,5972,6155,6232,6312,6385,6477,6566,6701,7009,7232,7361,7682",
+                        "endColumns": "159,182,76,79,72,91,88,134,115,167,128,134,77",
+                        "endOffsets": "5967,6150,6227,6307,6380,6472,6561,6696,6812,7172,7356,7491,7755"
                     }
                 },
                 {
@@ -57,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/1a536a6d95a3ba50c6d502f871e72ccd/jetified-ui-1.1.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cefb9914ab8461650899c20615f2a637/jetified-ui-1.5.0/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -108,24 +106,43 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/585f5e0b18486f853765d131d5803ff2/jetified-mapbox-android-sdk-9.4.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/f85edcb51d9477c98f0c5cb959bd9a5a/jetified-base-1.5.0/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,215,398,475,555,628,720,809,944,1060,1228,1357,1492",
-                        "endColumns": "159,182,76,79,72,91,88,134,115,167,128,134,77",
-                        "endOffsets": "210,393,470,550,623,715,804,939,1055,1223,1352,1487,1565"
+                        "startLines": "2,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,196,243",
+                        "endLines": "5,6,7",
+                        "endColumns": "14,46,47",
+                        "endOffsets": "191,238,286"
                     },
                     "to": {
-                        "startLines": "51,52,53,54,55,56,57,58,59,63,65,66,70",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5812,5972,6155,6232,6312,6385,6477,6566,6701,7009,7232,7361,7682",
-                        "endColumns": "159,182,76,79,72,91,88,134,115,167,128,134,77",
-                        "endOffsets": "5967,6150,6227,6307,6380,6472,6561,6696,6812,7172,7356,7491,7755"
+                        "startLines": "2,72,76",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,7808,8007",
+                        "endLines": "5,72,76",
+                        "endColumns": "14,46,47",
+                        "endOffsets": "241,7850,8050"
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cd975465a3e56f956b236e7d17372786/jetified-notification-1.5.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,52",
+                        "endOffsets": "119,172"
+                    },
+                    "to": {
+                        "startLines": "60,61",
+                        "startColumns": "4,4",
+                        "startOffsets": "6817,6886",
+                        "endColumns": "68,52",
+                        "endOffsets": "6881,6934"
+                    }
+                },
+                {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/99e62a5ea62d7f1cc36931f68ebb02e2/jetified-utils-1.5.0/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

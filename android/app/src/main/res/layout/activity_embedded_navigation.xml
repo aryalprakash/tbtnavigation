@@ -26,6 +26,19 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="parent" />
 
+             <TextView
+            android:layout_width="wrap_content"  
+            android:layout_height="wrap_content"  
+            android:text="Beta"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="80dp"
+            android:layout_marginRight="5dp"
+            app:layout_constraintVertical_bias="0.073" 
+            app:layout_constraintBottom_toBottomOf="@+id/mapView" 
+            app:layout_constraintEnd_toEndOf="@+id/mapView"
+        />  
+
     <ProgressBar
         android:id="@+id/route_retrieval_progress_spinner"
         android:layout_width="wrap_content"

@@ -10,9 +10,9 @@ import { NativeModules } from 'react-native'
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity, TextInput} from 'react-native';
 // import Geolocation from '@react-native-community/geolocation';
-import Geolocation from 'react-native-geolocation-service';
+// import Geolocation from 'react-native-geolocation-service';
 import RNLocation from 'react-native-location';
-
+import MapView from 'react-native-maps';
 
 
 const mapboxkey="pk.eyJ1IjoidGhlZ2FuYXNlcnZpY2VzIiwiYSI6ImNqbWt2cTR1MDAxdjYzdW5uMHYzNnVoODEifQ._2vD6J89pZ10l76vWFry8g";
@@ -22,21 +22,25 @@ export default class App extends Component {
     lat1: "27.7172",
     lon1: "85.324",
     lat2: "27.6",
-    lon2: "85.2"
+    lon2: "85.2",
+    message: ""
   }
 
   goto=()=>{
     const source = {
-      lat: parseInt(27.4),
-      lon: parseInt(85.0)
+      lat: parseFloat(this.state.lat1),
+      lon: parseFloat(this.state.lon1),
+      name: "Source Name"
     }
     const dest = {
-      lat: parseInt(28.0),
-      lon: parseInt(85.6)
+      lat: parseFloat(this.state.lat2),
+      lon: parseFloat(this.state.lon2),
+      name: "Dest Name"
     }
     const options = {source, dest};
     if(Platform.OS==="ios"){
-      NativeModules.RNTbtNavigation.takeMeToWH(options)
+      console.log(options);
+      NativeModules.MapBoxDirections.startNavigation(options)
     } else {
       NativeModules.MapBoxDirections.startNavigation(directionsRouteAsJson);
     }
@@ -47,13 +51,19 @@ export default class App extends Component {
       NativeModules.MapBoxDirections.startNavigation(JSON.stringify(this.state.route));
     } else {
       console.warn("No routes in state")
+      this.setState({
+        message: "No routes in state"
+      })
     }
   }
 
   fetchDirections=()=>{
+    this.setState({
+      message: "Fetching..."
+    })
     const {lat1, lon1, lat2, lon2} = this.state;
     const directionCoordinates = `${lon1},${lat1};${lon2},${lat2}`;
-    let url1 = 'https://api.mapbox.com/directions/v5/mapbox/'+'driving'+'/'+directionCoordinates+"?geometries=polyline6&steps=true&overview=full&banner_instructions=true&voice_instructions=true&annotations=distance&alternatives=true&access_token="+mapboxkey;
+    let url1 = 'https://api.mapbox.com/directions/v5/mapbox/'+'driving'+'/'+directionCoordinates+"?geometries=polyline6&steps=true&overview=full&banner_instructions=true&voice_instructions=true&annotations=distance,duration&alternatives=true&access_token="+mapboxkey;
     console.log(url1)
             fetch(url1).then((response)=>response.json())
               .then((res)=>{
@@ -62,13 +72,20 @@ export default class App extends Component {
                   console.log(res.routes[0])
                   this.setState({
                     route: res.routes[0],
-                    showDirections: true
+                    showDirections: true,
+                    message: "route fetched from mapbox"
                   })
                 } else {
                   console.warn("no routes")
+                  this.setState({
+                    message: "no routes found"
+                  })
                 }
               }).catch(err=>{
                 console.warn(err)
+                this.setState({
+                  message: err
+                })
               })
   }
 
@@ -76,7 +93,7 @@ export default class App extends Component {
     RNLocation.configure({ distanceFilter: 1 });
     RNLocation.getLatestLocation({ timeout: 60000 })
       .then(latestLocation => {
-        console.log(latestLocation)
+        //console.log(latestLocation)
         this.setState({
           lat1: latestLocation.latitude.toString(),
           lon1: latestLocation.longitude.toString()
@@ -143,6 +160,19 @@ export default class App extends Component {
         <TouchableOpacity style={{borderWidth: 1, marginVertical: 10, padding: 5}} onPress={()=>this.goto()}>
           <Text>Launch TBT Example</Text>
         </TouchableOpacity>
+        <View style={{marginTop: 100}}>
+          <Text>{this.state.message}</Text>
+        </View>
+        <MapView
+          provider="google"
+          initialRegion={{
+            latitude: 27.7172,
+            longitude: 85.3,
+            latitudeDelta: 0.0922,
+            longitudeDelta: 0.0421,
+          }}
+          style={{width: "100%", height:300, marginTop: 20}}
+        />
         </View>
       </ScrollView>
     );

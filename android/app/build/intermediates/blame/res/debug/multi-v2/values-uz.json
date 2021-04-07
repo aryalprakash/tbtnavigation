@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/99e62a5ea62d7f1cc36931f68ebb02e2/jetified-utils-1.5.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,158,207",
+                        "endColumns": "48,53,48,49",
+                        "endOffsets": "99,153,202,252"
+                    },
+                    "to": {
+                        "startLines": "51,53,54,55",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5678,5775,5829,5878",
+                        "endColumns": "48,53,48,49",
+                        "endOffsets": "5722,5824,5873,5923"
+                    }
+                },
+                {
                     "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/8505c4bc6ae7cc55e5ed61862a293f7d/core-1.2.0/res/values-uz/values-uz.xml",
                     "from": {
                         "startLines": "2",
@@ -55,20 +72,20 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/fb6803a2d2c1e1f7a230080ad5ae6027/jetified-utils-1.1.0/res/values-uz/values-uz.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/cd975465a3e56f956b236e7d17372786/jetified-notification-1.5.0/res/values-uz/values-uz.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,104,158,207",
-                        "endColumns": "48,53,48,49",
-                        "endOffsets": "99,153,202,252"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
                     },
                     "to": {
-                        "startLines": "51,53,54,55",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "5678,5775,5829,5878",
-                        "endColumns": "48,53,48,49",
-                        "endOffsets": "5722,5824,5873,5923"
+                        "startLines": "50",
+                        "startColumns": "4",
+                        "startOffsets": "5606",
+                        "endColumns": "71",
+                        "endOffsets": "5673"
                     }
                 },
                 {
@@ -89,22 +106,22 @@
                     }
                 },
                 {
-                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/dfe687424eae12a6cecb62d6b41839bc/jetified-notification-1.1.0/res/values-uz/values-uz.xml",
+                    "source": "/Users/thegana/.gradle/caches/transforms-2/files-2.1/f85edcb51d9477c98f0c5cb959bd9a5a/jetified-base-1.5.0/res/values-uz/values-uz.xml",
                     "from": {
-                        "startLines": "2,5,6,7",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,155,227,275",
-                        "endLines": "4,5,6,7",
-                        "endColumns": "14,71,47,49",
-                        "endOffsets": "150,222,270,320"
+                        "startLines": "2,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,155,203",
+                        "endLines": "4,5,6",
+                        "endColumns": "14,47,49",
+                        "endOffsets": "150,198,248"
                     },
                     "to": {
-                        "startLines": "2,50,52,56",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "105,5606,5727,5928",
-                        "endLines": "4,50,52,56",
-                        "endColumns": "14,71,47,49",
-                        "endOffsets": "200,5673,5770,5973"
+                        "startLines": "2,52,56",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,5727,5928",
+                        "endLines": "4,52,56",
+                        "endColumns": "14,47,49",
+                        "endOffsets": "200,5770,5973"
                     }
                 }
             ]
