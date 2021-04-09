@@ -13,6 +13,7 @@
 #import <React/RCTDevLoadingView.h>
 #endif
 #import <GoogleMaps/GoogleMaps.h>
+#import <Firebase.h>
 
 @implementation AppDelegate
 
@@ -21,6 +22,9 @@
   NSURL *jsCodeLocation;
 
   jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"index" fallbackResource:nil];
+  if ([FIRApp defaultApp] == nil) {
+    [FIRApp configure];
+  }
   [GMSServices provideAPIKey:@"AIzaSyBUbQ_HOaRI-QHO4F38VbTl140g_hkyQrM"];
   
   RCTBridge *bridge = [[RCTBridge alloc] initWithBundleURL:jsCodeLocation

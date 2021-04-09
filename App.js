@@ -13,6 +13,7 @@ import {Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity, TextInpu
 // import Geolocation from 'react-native-geolocation-service';
 import RNLocation from 'react-native-location';
 import MapView from 'react-native-maps';
+import analytics from '@react-native-firebase/analytics';
 
 
 const mapboxkey="pk.eyJ1IjoidGhlZ2FuYXNlcnZpY2VzIiwiYSI6ImNqbWt2cTR1MDAxdjYzdW5uMHYzNnVoODEifQ._2vD6J89pZ10l76vWFry8g";
@@ -39,7 +40,7 @@ export default class App extends Component {
     }
     const options = {source, dest};
     if(Platform.OS==="ios"){
-      console.log(options);
+      console.log(analytics);
       NativeModules.MapBoxDirections.startNavigation(options)
     } else {
       NativeModules.MapBoxDirections.startNavigation(directionsRouteAsJson);

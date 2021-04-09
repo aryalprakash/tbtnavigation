@@ -1,5 +1,7 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+platform :ios, '10.0'
+
+$RNFirebaseAsStaticFramework = true
 
 target 'TbtNavigation' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
@@ -37,6 +39,8 @@ target 'TbtNavigation' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
+  pod 'RNFBApp', :path => '../node_modules/@react-native-firebase/app'
+  
   pod 'MapboxNavigation', '~> 0.22.0'
   pod 'MapboxMobileEvents', :modular_headers => true
 
